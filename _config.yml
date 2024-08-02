@@ -3,7 +3,7 @@ course_name: Deep Generative Models
 course_description: "Explore the principles and techniques behind Deep Generative Models, including VAEs, GANs, and autoregressive models, to create and understand complex data distributions. This course combines theoretical foundations with practical applications to equip students with the skills to build and deploy generative models in various domains."
 course_semester: "Fall 2024"
 
-baseurl: "/dgm-penn" # the subpath of your site, e.g. /blog/
+baseurl: "/DGM-Penn" # the subpath of your site, e.g. /blog/
 url: "https://kaleab-k.github.io/" # the base hostname & protocol for your site
 
 schoolname: "University of Pennsylvania"
